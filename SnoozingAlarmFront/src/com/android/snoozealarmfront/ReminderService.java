@@ -1,6 +1,6 @@
 package com.android.snoozealarmfront;
 
-import com.dummies.android.taskreminder.R;
+import com.android.snoozealarmfront.R;
 
 import android.app.Notification;
 import android.app.NotificationManager;

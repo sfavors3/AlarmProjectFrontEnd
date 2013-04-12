@@ -1,6 +1,6 @@
 package com.android.snoozealarmfront;
 
-import com.dummies.android.taskreminder.R;
+import com.android.snoozealarmfront.R;
 
 import android.os.Bundle;
 import android.preference.EditTextPreference;
